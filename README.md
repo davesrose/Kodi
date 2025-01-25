@@ -5,7 +5,7 @@ First it's best to find FireTV's IP in its settings. arp -a will list all your n
 ## Creating local autostart files
 
 Examples are in this folder. There are general guides for how to create an autostart of addons here:
-[a link](https://kodi.wiki/view/Autoexec_Service) . You create an addon.xml file to point to your .py. For my need of running an addon, the .py is simple
+[autoexec_service](https://kodi.wiki/view/Autoexec_Service) . You create an addon.xml file to point to your .py. For my need of running an addon, the .py is simple
 
 addon.xml:
 
