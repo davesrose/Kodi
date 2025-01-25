@@ -42,9 +42,9 @@ Per Kodi Wiki, you first create a folder in your addons directory. For my versio
 adb shell
 cd /sdcard/Android/data/org.xbmc.sled/files/.kodi/addons/
 mkdir service.autoexec
+```
 
 exit shell (ctrl + c)
-```
 
 Then push your local files to the service.autoexec folder:
 
